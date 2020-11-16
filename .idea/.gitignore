@@ -4,3 +4,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+<<<<<<< HEAD
+# Editor-based HTTP Client requests
+/httpRequests/
+=======
+>>>>>>> dae09ead1aa23e14af8ddd89525ca48e43c1d466
